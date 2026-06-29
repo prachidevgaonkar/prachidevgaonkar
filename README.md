@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prachigaonkar)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prachi.devgaonkar@gmail.com)
-[![dev.to](https://img.shields.io/badge/Writing-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/prachigaonkar)
 
 </div>
 
